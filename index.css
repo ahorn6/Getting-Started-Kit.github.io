@@ -52,20 +52,20 @@ a {
 }
 
 a:link {
-    color: black;
+    color: #ffc93c;
 }
 
 a:visited {
-    color: black;
+    color: #ffc93c;
 }
 
 a:hover {
-    background-color: black;
-    color: white;
+    background-color: #40a8c4;
+    color: #a2d5f2;
 }
 
 a:active {
-    color: grey;
+    color: #a2d5f2;
 }
 
 ul {
@@ -94,7 +94,7 @@ h2 {
 }
 
 header {
-    color: white;
-    background-color: black;
+    color: #ffc93c;
+    background-color: #40a8c4;
 }
 
